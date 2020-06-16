@@ -20,6 +20,9 @@
     
     * 如無法確定目的地是哪個網段，（不在傳送位址表上，無此紀錄），則傳送到除了發送端源頭網段的其它鄉鄰區段，稱為擴散 (flood)。
     
+   * 橋接器功能，請詳
+   https://github.com/QueenieCplusplus/ICND_Bridge/blob/master/README.md#icnd-bridge
+    
 
 * 下三層 （資料流）     
 
