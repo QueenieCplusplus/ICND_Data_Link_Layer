@@ -6,3 +6,16 @@
 詳見 OSI 7 Layer
 
 https://github.com/QueenieCplusplus/ICND_OSI_7Layer#osi-七-層
+
+下三層 （資料流）                
+                               
+                 packet          Network // IP, IPX                    IP header
+                 
+                 
+                                                                       LLC header (logical link control)
+                               
+                 frame           DataLink // 802.3
+                 
+                                                                       MAC header 
+                             
+                 bits            Physical /* move bits between devices */
