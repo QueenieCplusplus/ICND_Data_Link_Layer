@@ -59,4 +59,6 @@ https://github.com/QueenieCplusplus/ICND_OSI_7Layer#osi-七-層
 
 此層定義了實體位置、frame 的傳送次序、錯誤通知、流量控制。
 
+* Frame 資料框
+
 
