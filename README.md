@@ -33,7 +33,7 @@ https://github.com/QueenieCplusplus/ICND_OSI_7Layer#osi-七-層
 
 * LLC 邏輯連結控制
 
-此層能藉由代碼 type code 、 服務存取點 sap id，區分不同的通訊協定，並將資料封裝成相對應的格式。 
+此層能藉由代碼 type code 、 服務存取點 sap id，區分不同的通訊協定，並將資料封裝成相對應的格式。 至於到底使用何種格式，則取決於上一層的通訊協定。
 
 * MAC 網路（媒體）存取控制
 
