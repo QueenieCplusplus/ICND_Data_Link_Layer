@@ -3,11 +3,18 @@
 
 在資料被送到線上傳輸之前，就必須註明它要送到何處並且促成什麼結果，這些功能便是在此層完成的。
 
+* 橋接器
+
+功能等同於第二層交換器，拜 ASIC 晶片控制速度（快過軟體），故能達到十億位元的傳輸速度。
+不同於集線器，此類設備能分割不同的廣播/碰撞區（網段）。
+
+* 下三層 （資料流）     
+
+
 詳見 OSI 7 Layer
 
 https://github.com/QueenieCplusplus/ICND_OSI_7Layer#osi-七-層
 
-下三層 （資料流）                
                                
                  packet          Network // IP, IPX                    IP header
                  
