@@ -24,6 +24,6 @@ https://github.com/QueenieCplusplus/ICND_OSI_7Layer#osi-七-層
 
 關於 IEEE 區分的兩個子層為：
 
-* LLC 
+* LLC 邏輯連結控制
 
-* MAC
+* MAC 網路（媒體）存取控制
