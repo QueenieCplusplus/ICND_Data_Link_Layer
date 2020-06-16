@@ -35,6 +35,8 @@ https://github.com/QueenieCplusplus/ICND_OSI_7Layer#osi-七-層
 
 此層能藉由代碼 type code 、 服務存取點 sap id，區分不同的通訊協定，並將資料封裝成相對應的格式。 至於到底使用何種資料框，則取決於更上層的通訊協定。
 
+利用序號控制位元 sequence control bit ，在某些通訊協定中，取代了 Transport Layer 功能，能定義何種服務為可靠或是不可靠。
+
 * MAC 網路（媒體）存取控制
 
 此層定義了實體位置、frame 的傳送次序、錯誤通知、流量控制。
