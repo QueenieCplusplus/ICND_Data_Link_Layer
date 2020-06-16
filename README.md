@@ -19,3 +19,5 @@ https://github.com/QueenieCplusplus/ICND_OSI_7Layer#osi-七-層
                                                                        MAC header 
                              
                  bits            Physical /* move bits between devices */
+
+本層的主要目的在提供工作站，位於線路上 bits 之上的第一邏輯層溝通，由於它在資料欄位中註明了端點 end point 的 MAC address 實體位置，網路上的各設備方才能決定是否要將收到的訊息往通訊協定堆疊之上一層傳送，且決定哪一項通訊協定，資料鏈結層支援各種連結導向 connection-oriented 或是 非連結導向的服務如 connectionless。
