@@ -49,3 +49,5 @@ https://github.com/QueenieCplusplus/ICND_OSI_7Layer#osi-七-層
 * MAC 網路（媒體）存取控制
 
 此層定義了實體位置、frame 的傳送次序、錯誤通知、流量控制。
+
+
